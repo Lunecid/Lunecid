@@ -1,4 +1,4 @@
-### Hi, This is Lunecid's Github 👋
+### Hi, This is Lunecid's Github! 👋
 
 <!--
 **Lunecid/Lunecid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
