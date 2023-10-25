@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=97cdff&height=170&text=Lunecid's%20Github-nl-&desc=Data%20Analaysis%20Job%20Seeker&animation=twinkling&fontColor=ff9c99)
 
 
 
