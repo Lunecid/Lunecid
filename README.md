@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Egg&color=ffdddc&reversal=True&height=60)
+
 
 ### Hi, This is Lunecid's Github! 👋
 
@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunecid&show_icons=true&theme=defalut)
 
-
-![header](https://capsule-render.vercel.app/api?type=Waving&color=97cdff&height=130&reversal=true)
