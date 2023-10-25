@@ -1,5 +1,5 @@
 
-
+![header](https://capsule-render.vercel.app/api?type=Egg&color=ffdddc&reversal=True&height=60)
 
 ### Hi, This is Lunecid's Github! 👋
 
@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Egg&color=ffdddc&reversal=True&height=60)
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Lunecid's&fontAlign=30&fontSize=45&desc=Git%20hub&descAlign=60&descAlignY=50&theme=default)
+
 
 
 
