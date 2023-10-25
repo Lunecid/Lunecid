@@ -1,7 +1,7 @@
 
 
 
-### Hi, This is Lunecid's Github! 👋
+
 
 <!--
 **Lunecid/Lunecid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=97cdff&height=170&text=Lunecid's%20Github-nl-&desc=Data%20Analaysis%20Job%20Seeker&animation=twinkling&fontColor=ff9c99)
 
+### Hi, This is Lunecid's Github! 👋
 
 
 <a href="https://www.instagram.com/lunecid/" target="_blank"><img src="https://img.shields.io/badge/Instagram-White?style=social&logo=instagram&logoColor=E4405F"/></a>
