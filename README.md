@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Egg&color=ffdddc)
+
 
 ### Hi, This is Lunecid's Github! 👋
 
