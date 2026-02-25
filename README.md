@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 <a href="mailto:jdc05124@pusan.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-White?style=social&logo=Gmail&logoColor=#EA4335"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunecid&show_icons=true&theme=panda)
 
